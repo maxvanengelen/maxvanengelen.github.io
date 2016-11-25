@@ -1,0 +1,120 @@
+body {
+	background-image: url(img/bgbw.jpg);
+	background-repeat: repeat;
+	background-attachment: fixed;
+	background-position: center;
+}
+
+.container {
+	margin: auto;
+	width: 640px;
+	padding-right: 15px;
+	padding-left: 15px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	background-color: white;
+	padding-bottom: 30px
+}
+
+.menu {
+	margin: auto;
+	width: 640px;
+	padding-right: 15px;
+	padding-left: 15px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	background-color: #313233;
+    opacity: 0.9;
+
+}
+
+.top {
+	margin: auto;
+	width: 640px;
+	padding-right: 15px;
+	padding-left: 15px;
+	padding-top: 15px;
+	margin-bottom: 10px;
+}
+
+.bottom {
+	margin: auto;
+	width: 640px;
+	padding-right: 15px;
+	padding-left: 15px;
+	padding-top: 5px;
+	background-color: #313233;
+	padding-bottom: 5px;
+	opacity: 0.9;
+}
+
+img.topLeft {
+	float: left;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 30px;
+
+}
+
+h1 {
+	text-align: center;
+	font-family: Champagne_Limousines-ThickBold;
+	color: black;
+}
+
+h2 {
+	text-align: center;
+	font-family: Champagne_Limousines-ThickBold;
+	color: black;
+}
+
+h3 {
+	text-align: center;
+	font-family: Champagne_Limousines-ThickBold;
+	color: black;
+}
+
+a {
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: Champagne_Limousines-ThickBold;
+    font-size: 105%;
+}
+
+p {
+	text-align: center;
+	font-family: Arial;
+	color: black;	
+}
+
+input {
+	margin: auto;
+	font-family: Arial;
+	color: black;
+	padding-left: 50px;
+}
+
+form {
+	margin: auto;
+	font-family: Arial;
+	color: black;
+	padding-left: 50px;
+}
+
+@font-face {
+    font-family: Champagne_Limousines-ThickBold;
+    src: url(fonts/champagne_limousines-thickbold.ttf);
+}
+
+@font-face {
+    font-family: Amarillo.ttf;
+    src: url(fonts/Amarillo.ttf);
+}
+
+@font-face {
+    font-family: Amarillo.otf;
+    src: url(fonts/Amarillo.);
+}
+
