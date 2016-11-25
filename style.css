@@ -68,19 +68,39 @@ h2 {
 	color: black;
 }
 
+h3 {
+	text-align: center;
+	font-family: Champagne_Limousines-ThickBold;
+	color: black;
+}
+
 a {
     color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
     font-family: Champagne_Limousines-ThickBold;
-    font-size: 130%;
+    font-size: 105%;
 }
 
 p {
 	text-align: center;
-	font-family: Champagne_Limousines-ThickBold;
+	font-family: Arial;
 	color: black;	
+}
+
+input {
+	margin: auto;
+	font-family: Arial;
+	color: black;
+	padding-left: 50px;
+}
+
+form {
+	margin: auto;
+	font-family: Arial;
+	color: black;
+	padding-left: 50px;
 }
 
 @font-face {
